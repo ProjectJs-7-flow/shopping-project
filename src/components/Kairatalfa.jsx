@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Kairatalfa = () => {
-  return (
-    <div>Kairatalfa</div>
-  )
-}
+  return <div>Kairatalfa welcome</div>;
+};
 
-export default Kairatalfa
+export default Kairatalfa;
