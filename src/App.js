@@ -13,14 +13,14 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      {/* <Albina/>
+      <Albina/>
       <Alisher />
       <Asatbek />
       <Dastan />
       <Kairat />
       <Malik />
       <Nurtilek />
-      <Kairatalfa /> */}
+      <Kairatalfa />
     </div>
   );
 }
