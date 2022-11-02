@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Asatbek = () => {
-  return (
-    <div>
-      Asatbek
-    </div>
-  )
-}
+  return <div>Asatbek- crazy</div>;
+};
 
-export default Asatbek
+export default Asatbek;
