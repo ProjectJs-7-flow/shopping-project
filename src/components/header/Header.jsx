@@ -1,5 +1,5 @@
-import React from 'react'
-import styles from "./Header.module.css"
+import React from "react";
+import styles from "./Header.module.css";
 
 const Header = () => {
   return (
@@ -9,11 +9,10 @@ const Header = () => {
         <li>Discover</li>
         <li>Collection</li>
         <li>Winter</li>
-        <input placeholder='Search...'/>
-   
+        <input placeholder="Search..." />
       </ul>
     </div>
   );
-}
+};
 
-export default Header
+export default Header;

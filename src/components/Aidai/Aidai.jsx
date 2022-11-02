@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Kairat = () => {
+function Aidai() {
   return (
     <div>
-      
+      AIDAI
     </div>
   )
 }
 
-export default Kairat
+export default Aidai
