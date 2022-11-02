@@ -1,4 +1,5 @@
 import "./App.css";
+import Albina from "./components/albina/Albina";
 import Alisher from "./components/alisher/Alisher";
 import Asatbek from "./components/asatbek/Asatbek";
 import Dastan from "./components/dastan/Dastan";
@@ -10,6 +11,7 @@ import Nurtilek from "./components/nurtilek/Nurtilek";
 function App() {
   return (
     <div className="App">
+      <Albina/>
       <Alisher />
       <Asatbek />
       <Dastan />
