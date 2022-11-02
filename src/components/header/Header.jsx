@@ -12,6 +12,7 @@ const Header = () => {
             <li>Новинки</li>
             <li>Наша команда</li>
             <li>Контакты</li>
+            <li>About we</li>
         </ul>
     </div>
   )

@@ -8,12 +8,14 @@ import Kairat from "./components/kairat/Kairat";
 import Kairatalfa from "./components/Kairatalfa";
 import Malik from "./components/malik/Malik";
 import Nurtilek from "./components/nurtilek/Nurtilek";
+import Ramazan from "./components/ramazan/Ramazan";
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Albina/>
+      <Header />
+      <Ramazan />
+      <Albina />
       <Alisher />
       <Asatbek />
       <Dastan />
