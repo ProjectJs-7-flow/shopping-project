@@ -7,7 +7,7 @@ import Kairat from "./components/kairat/Kairat";
 import Kairatalfa from "./components/Kairatalfa";
 import Malik from "./components/malik/Malik";
 import Nurtilek from "./components/nurtilek/Nurtilek";
-import Ramazan from "./components/ramazan/Ramazan";
+
 
 function App() {
   return (
@@ -20,6 +20,7 @@ function App() {
       <Nurtilek />
       <Kairatalfa />
       <Content />
+      <TodoWithRoma />
       <Footer />
     </div>
   );
