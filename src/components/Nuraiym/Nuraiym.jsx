@@ -1,9 +1,12 @@
 import React from 'react'
+import NuraiymItem from '../nuriaym-item/NuraiymItem';
 
 const Nuraiym = () => {
   return (
-    <div>Nuraiym</div>
+    <div>Nuraiym
+        <NuraiymItem/>
+    </div>
   )
 }
 
-export default Nuraiym
+export default Nuraiym;
