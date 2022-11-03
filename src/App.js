@@ -1,9 +1,6 @@
 import "./App.css";
 import Albina from "./components/albina/Albina";
-import Alisher from "./components/alisher/Alisher";
-import Asatbek from "./components/asatbek/Asatbek";
 import Content from "./components/content/Content";
-import Dastan from "./components/dastan/Dastan";
 import Footer from "./components/footer/Footer";
 import Header from "./components/header/Header";
 import Kairat from "./components/kairat/Kairat";
@@ -17,11 +14,8 @@ function App() {
     <div className="App">
       <Header />
       <Ramazan />
-      
+
       <Albina />
-      <Alisher />
-      <Asatbek />
-      <Dastan />
       <Kairat />
       <Malik />
       <Nurtilek />
