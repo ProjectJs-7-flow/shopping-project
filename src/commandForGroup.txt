@@ -1,0 +1,6 @@
+
+
+git pull origin main // // бул бащка адамдын кодун алыщ учун 
+git checkout -b  <header/yourname> // // жаны ветка ачыщ учун
+git merge  main  //  бул бащка веткадан озгорулгон коду алып берет
+
