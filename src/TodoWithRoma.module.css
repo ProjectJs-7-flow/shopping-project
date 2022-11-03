@@ -1,0 +1,9 @@
+.container {
+  background: linear-gradient(red, black);
+  text-align: center;
+  padding: 30px;
+}
+.lishka {
+  margin-top: 20px;
+  color: white;
+}
