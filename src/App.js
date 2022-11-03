@@ -1,6 +1,7 @@
 import "./App.css";
 import Aidai from "./components/Aidai/Aidai";
 import Albina from "./components/albina/Albina";
+import Alisher from "./components/Alisher/Alisher";
 import Bekjan from "./components/bekjan/bekjan";
 import Kairat from "./components/kairat/Kairat";
 import Kairatalfa from "./components/Kairatalfa";
@@ -25,6 +26,7 @@ function App() {
       <Nuraiym />
       <Bekjan />
       <Nooruz />
+      <Alisher/>
     </div>
   );
 }
