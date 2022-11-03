@@ -14,7 +14,6 @@ function App() {
     <div className="App">
       <Header />
       <Ramazan />
-
       <Albina />
       <Kairat />
       <Malik />
