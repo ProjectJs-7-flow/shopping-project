@@ -11,16 +11,13 @@ import Kairat from "./components/kairat/Kairat";
 import Kairatalfa from "./components/Kairatalfa";
 import Malik from "./components/malik/Malik";
 import Nurtilek from "./components/nurtilek/Nurtilek";
-import bekjan  from "./components/bekjan/bekjan";
-import ramazan from "./components/ramazan/Ramazan";
+
 
 function App() {
   return (
     <div className="App">
       <Header />
       <Ramazan />
-      <Bekjan />
-
       <Albina />
       <Alisher />
       <Asatbek />
@@ -30,6 +27,7 @@ function App() {
       <Nurtilek />
       <Kairatalfa />
       <Content />
+      <TodoWithRoma />
       <Footer />
     </div>
   );
