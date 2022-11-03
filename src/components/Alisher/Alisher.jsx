@@ -1,9 +1,7 @@
-import React from 'react'
+import classes from "./Alisher.module.css";
 
 const Alisher = () => {
-  return (
-    <div>Alisher</div>
-  )
-}
+  return <div className={classes.Alisher}>Alisher</div>;
+};
 
-export default Alisher
+export default Alisher;
