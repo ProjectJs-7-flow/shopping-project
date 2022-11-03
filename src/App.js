@@ -3,6 +3,7 @@ import Aidai from "./components/Aidai/Aidai";
 import Albina from "./components/albina/Albina";
 import Alisher from "./components/Alisher/Alisher";
 import Bekjan from "./components/bekjan/bekjan";
+import Header from "./components/header/Header";
 import Kairat from "./components/kairat/Kairat";
 import Kairatalfa from "./components/Kairatalfa";
 import Madina from "./components/madina/Madina";
@@ -15,6 +16,7 @@ import Ramazan from "./components/ramazan/Ramazan";
 function App() {
   return (
     <div className="App">
+      <Header/>
       <Nurtilek />
       <Ramazan />
       <Albina />
